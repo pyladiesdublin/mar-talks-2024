@@ -7,7 +7,7 @@
 
   
 # 📢 Announcements
-Coming Soon
+https://docs.google.com/presentation/d/e/2PACX-1vRIQ3l28FYEmA4wkuy4PI08b7juXXTPqtP1ns9PbeAyObTFTErgWbBzAeMVfPko-fyWvO23U6Kb5PAS/pub?start=false&loop=false&delayms=3000
 
 # 🎙️ Talk
 ## ⭐️ Efficient Deployment and Debugging of a Fine-Tuned Language Model Classifier Using Python SDK & Cloud Tools by Samira Korani
