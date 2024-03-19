@@ -16,20 +16,12 @@ https://docs.google.com/presentation/d/e/2PACX-1vRIQ3l28FYEmA4wkuy4PI08b7juXXTPq
 This session introduces the benefits of python in cybersecurity and how you can use python to solve cyber challenges.
 
 ## ABOUT SPEAKER
+### 🙂 SAMIRA KORANI
 
-### 🙂 AKSHITA AGGARWAL
-⚡️ Software engineer at Pinterest
-Akshita is a software engineer at Pinterest working on interesting challenges in Big data and Privacy. Her prior experience includes working with large-scale systems at Amazon Web Services and Goldman Sachs. She is always enthusiastic about exploring new technologies.
-
-* https://www.linkedin.com/in/akshita-aggarwal-98845413a/
-
-### 🙂 ANNA BARON GARCIA
-⚡️ Insight SFI Centre for Data Analytics, Natural Language Processing Engineer
 I have been working in the Computer Science field since 2013, working on natural language processing, and machine learning problems. Before choosing the computer science field for my career, as a young woman in an ideological country like Iran, my mind was full of philosophical questions. I tried to find myself and answer my primary enigma, “Living my life, my way.” I started my journey among people, places, songs, movies, dances, sports, and languages. I need that journey, and I believe everybody needs the journey. Finally found my way into tech. I designed and developed many AI-based software, After a while, I have decided to get back to academia. I am doing PhD at NUIG.
 
 * https://www.linkedin.com/in/samira-korani-056954143/
   
-
 # 💟 Thanks 
 * LinkedIn for hosting & catering
     * https://careers.linkedin.com/Locations/Dublin
