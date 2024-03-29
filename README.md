@@ -15,6 +15,9 @@ https://docs.google.com/presentation/d/e/2PACX-1vRIQ3l28FYEmA4wkuy4PI08b7juXXTPq
 
 This session introduces the benefits of python in cybersecurity and how you can use python to solve cyber challenges.
 
+### Prsentation and Demo 
+* https://github.com/pyladiesdublin/mar-talks-2024/tree/main/SamiraKorani
+
 ## ABOUT SPEAKER
 ### 🙂 SAMIRA KORANI
 
